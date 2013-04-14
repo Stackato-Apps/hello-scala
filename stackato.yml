@@ -1,5 +1,5 @@
 name: hello-scala
-mem: 256M
+mem: 512M
 framework:
   type: buildpack
 env:
