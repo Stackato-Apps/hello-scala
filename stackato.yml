@@ -6,5 +6,5 @@ env:
   BUILDPACK_URL: https://github.com/heroku/heroku-buildpack-scala.git
 
 services:
-  hello-scale-cache: filesystem
+  ${name}-cache: filesystem
 
