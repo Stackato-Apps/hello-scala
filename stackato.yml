@@ -1,6 +1,0 @@
-name: hello-scala
-mem: 512M
-buildpack: https://github.com/heroku/heroku-buildpack-scala.git
-services:
-  ${name}-cache: filesystem
-
